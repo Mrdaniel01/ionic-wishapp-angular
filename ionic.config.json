@@ -1,0 +1,7 @@
+{
+  "name": "WishApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
